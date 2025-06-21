@@ -29,7 +29,10 @@ const fs = require("fs");
 
       resultados.forEach((jugador) => {
         const lugar = jugador.querySelector("td:nth-child(1n)")?.innerText;
+        const avatar = jugador.querySelector("table.inline-table tbody tr td img")?.getAttribute("data-src");
         const nombre = jugador.querySelector("td.hauptlink a")?.innerText?.trim();
+        const posicion = jugador.querySelector("table.inline-table tbody tr:nth-child(2n) td")?.innerText.trim();
+
         const nacionalidades = Array.from(jugador.querySelectorAll("img.flaggenrahmen"))
           .map((img) => img.getAttribute("title"))
           .filter(Boolean);
@@ -41,6 +44,8 @@ const fs = require("fs");
 
         if (
           !lugar ||
+          !avatar ||
+          !posicion ||
           !nombre ||
           !nacionalidades ||
           !edad ||
@@ -53,7 +58,9 @@ const fs = require("fs");
 
         const resultados = {
           Lugar: lugar,
+          Avatar: avatar,
           Nombre: nombre,
+          Posicion: posicion,
           Nacionalidades: nacionalidades.join(" / "),
           Edad: edad,
           Club: club,
@@ -92,6 +99,25 @@ const fs = require("fs");
   // Guardar en JSON
   fs.writeFileSync("Francia.json", JSON.stringify(todosJugadores, null, 2));
   console.log("✅ Archivo JSON creado: Francia.json");
+
+  // Guardar en XLSX
+  const XLSX = require("xlsx");
+  const ws = XLSX.utils.json_to_sheet(todosJugadores);
+  const wb = XLSX.utils.book_new();
+  XLSX.utils.book_append_sheet(wb, ws, "Jugadores");
+  XLSX.writeFile(wb, "Francia.xlsx");
+  console.log("✅ Archivo XLSX creado: Francia.xlsx");
+
+  // Guardar en CSV
+  const createCsvWriter = require("csv-writer").createObjectCsvWriter;
+  const csvWriter = createCsvWriter({
+    path: "Francia.csv",
+    header: Object.keys(todosJugadores[0]).map((key) => ({ id: key, title: key })),
+    encoding: "utf8",
+    alwaysQuote: true,
+  });
+  await csvWriter.writeRecords(todosJugadores);
+  console.log("✅ Archivo CSV creado: Francia.csv");
 
   await browser.close();
 })();

@@ -1,7 +1,9 @@
 [
   {
     "Lugar": "1",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/288230-1684148641.jpg?lm=1",
     "Nombre": "Ousmane Dembélé",
+    "Posicion": "Extremo derecho",
     "Nacionalidades": "Francia",
     "Edad": "28",
     "Club": "París Saint-Germain FC",
@@ -11,7 +13,9 @@
   },
   {
     "Lugar": "2",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/502670-1708553120.jpg?lm=1",
     "Nombre": "Khvicha Kvaratskhelia",
+    "Posicion": "Extremo izquierdo",
     "Nacionalidades": "Georgia",
     "Edad": "24",
     "Club": "París Saint-Germain FC",
@@ -21,7 +25,9 @@
   },
   {
     "Lugar": "3",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/914562-1667317075.jpg?lm=1",
     "Nombre": "Désiré Doué",
+    "Posicion": "Extremo derecho",
     "Nacionalidades": "Francia / Costa de Marfil",
     "Edad": "20",
     "Club": "París Saint-Germain FC",
@@ -31,7 +37,9 @@
   },
   {
     "Lugar": "4",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/398073-1672304327.jpg?lm=1",
     "Nombre": "Achraf Hakimi",
+    "Posicion": "Lateral derecho",
     "Nacionalidades": "Marruecos / España",
     "Edad": "26",
     "Club": "París Saint-Germain FC",
@@ -41,7 +49,9 @@
   },
   {
     "Lugar": "5",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/487469-1749415169.jpg?lm=1",
     "Nombre": "Vitinha",
+    "Posicion": "Mediocentro",
     "Nacionalidades": "Portugal",
     "Edad": "25",
     "Club": "París Saint-Germain FC",
@@ -51,7 +61,9 @@
   },
   {
     "Lugar": "6",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/670681-1701295511.jpg?lm=1",
     "Nombre": "João Neves",
+    "Posicion": "Pivote",
     "Nacionalidades": "Portugal",
     "Edad": "20",
     "Club": "París Saint-Germain FC",
@@ -61,7 +73,9 @@
   },
   {
     "Lugar": "7",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/616341-1749417164.jpg?lm=1",
     "Nombre": "Nuno Mendes",
+    "Posicion": "Lateral izquierdo",
     "Nacionalidades": "Portugal",
     "Edad": "23",
     "Club": "París Saint-Germain FC",
@@ -71,7 +85,9 @@
   },
   {
     "Lugar": "8",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/708265-1653406915.jpg?lm=1",
     "Nombre": "Bradley Barcola",
+    "Posicion": "Extremo izquierdo",
     "Nacionalidades": "Francia / Togo",
     "Edad": "22",
     "Club": "París Saint-Germain FC",
@@ -81,7 +97,9 @@
   },
   {
     "Lugar": "9",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/661171-1696508666.jpg?lm=1",
     "Nombre": "Willian Pacho",
+    "Posicion": "Defensa central",
     "Nacionalidades": "Ecuador",
     "Edad": "23",
     "Club": "París Saint-Germain FC",
@@ -91,7 +109,9 @@
   },
   {
     "Lugar": "10",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/810092-1672303575.jpg?lm=1",
     "Nombre": "Warren Zaïre-Emery",
+    "Posicion": "Mediocentro",
     "Nacionalidades": "Francia / Martinica",
     "Edad": "19",
     "Club": "París Saint-Germain FC",
@@ -101,7 +121,9 @@
   },
   {
     "Lugar": "11",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/533738-1666690584.jpg?lm=1",
     "Nombre": "Jonathan David",
+    "Posicion": "Delantero centro",
     "Nacionalidades": "Canadá / Estados Unidos",
     "Edad": "25",
     "Club": "LOSC Lille",
@@ -111,7 +133,9 @@
   },
   {
     "Lugar": "12",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/745200-1717406573.jpg?lm=1",
     "Nombre": "Maghnes Akliouche",
+    "Posicion": "Extremo derecho",
     "Nacionalidades": "Francia / Argelia",
     "Edad": "23",
     "Club": "AS Mónaco",
@@ -121,7 +145,9 @@
   },
   {
     "Lugar": "13",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/315858-1672304477.jpg?lm=1",
     "Nombre": "Gianluigi Donnarumma",
+    "Posicion": "Portero",
     "Nacionalidades": "Italia",
     "Edad": "26",
     "Club": "París Saint-Germain FC",
@@ -131,7 +157,9 @@
   },
   {
     "Lugar": "14",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/350219-1718958379.jpg?lm=1",
     "Nombre": "Fabián Ruiz",
+    "Posicion": "Mediocentro",
     "Nacionalidades": "España",
     "Edad": "29",
     "Club": "París Saint-Germain FC",
@@ -141,7 +169,9 @@
   },
   {
     "Lugar": "15",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/550550-1681906158.jpg?lm=1",
     "Nombre": "Gonçalo Ramos",
+    "Posicion": "Delantero centro",
     "Nacionalidades": "Portugal",
     "Edad": "24",
     "Club": "París Saint-Germain FC",
@@ -151,7 +181,9 @@
   },
   {
     "Lugar": "16",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/532826-1693987766.jpg?lm=1",
     "Nombre": "Mason Greenwood",
+    "Posicion": "Extremo derecho",
     "Nacionalidades": "Inglaterra",
     "Edad": "23",
     "Club": "Olympique de Marsella",
@@ -161,7 +193,9 @@
   },
   {
     "Lugar": "17",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/181767-1672303747.jpg?lm=1",
     "Nombre": "Marquinhos",
+    "Posicion": "Defensa central",
     "Nacionalidades": "Brasil / Portugal",
     "Edad": "31",
     "Club": "París Saint-Germain FC",
@@ -171,7 +205,9 @@
   },
   {
     "Lugar": "18",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/743386-1676881156.jpg?lm=1",
     "Nombre": "Malick Fofana",
+    "Posicion": "Extremo izquierdo",
     "Nacionalidades": "Bélgica / Guinea",
     "Edad": "20",
     "Club": "Olympique de Lyon",
@@ -181,7 +217,9 @@
   },
   {
     "Lugar": "19",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/463600-1708342501.jpg?lm=1",
     "Nombre": "Lucas Chevalier",
+    "Posicion": "Portero",
     "Nacionalidades": "Francia",
     "Edad": "23",
     "Club": "LOSC Lille",
@@ -191,7 +229,9 @@
   },
   {
     "Lugar": "20",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/418659-1649428727.jpg?lm=1",
     "Nombre": "Amine Gouiri",
+    "Posicion": "Delantero centro",
     "Nacionalidades": "Argelia / Francia",
     "Edad": "25",
     "Club": "Olympique de Marsella",
@@ -201,7 +241,9 @@
   },
   {
     "Lugar": "21",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/334526-1667990520.jpg?lm=1",
     "Nombre": "Denis Zakaria",
+    "Posicion": "Pivote",
     "Nacionalidades": "Suiza / RD del Congo",
     "Edad": "28",
     "Club": "AS Mónaco",
@@ -211,7 +253,9 @@
   },
   {
     "Lugar": "22",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/565821-1736777758.jpg?lm=1",
     "Nombre": "Mika Biereth",
+    "Posicion": "Delantero centro",
     "Nacionalidades": "Dinamarca / Inglaterra",
     "Edad": "22",
     "Club": "AS Mónaco",
@@ -221,7 +265,9 @@
   },
   {
     "Lugar": "23",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/1097139-1741119960.jpg?lm=1",
     "Nombre": "Ayyoub Bouaddi",
+    "Posicion": "Mediocentro",
     "Nacionalidades": "Francia / Marruecos",
     "Edad": "17",
     "Club": "LOSC Lille",
@@ -231,7 +277,9 @@
   },
   {
     "Lugar": "24",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/463605-1666691072.jpg?lm=1",
     "Nombre": "Bafodé Diakité",
+    "Posicion": "Defensa central",
     "Nacionalidades": "Francia / Guinea",
     "Edad": "24",
     "Club": "LOSC Lille",
@@ -241,7 +289,9 @@
   },
   {
     "Lugar": "25",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/810895-1682691420.jpg?lm=1",
     "Nombre": "Eliesse Ben Seghir",
+    "Posicion": "Extremo izquierdo",
     "Nacionalidades": "Marruecos / Francia",
     "Edad": "20",
     "Club": "AS Mónaco",
@@ -251,7 +301,9 @@
   },
   {
     "Lugar": "26",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/281963-1667830435.jpg?lm=1",
     "Nombre": "Lucas Hernández",
+    "Posicion": "Lateral izquierdo",
     "Nacionalidades": "Francia / España",
     "Edad": "29",
     "Club": "París Saint-Germain FC",
@@ -261,7 +313,9 @@
   },
   {
     "Lugar": "27",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/576028-1709363616.jpg?lm=1",
     "Nombre": "Thiago Almada",
+    "Posicion": "Mediocentro ofensivo",
     "Nacionalidades": "Argentina",
     "Edad": "24",
     "Club": "Olympique de Lyon",
@@ -271,7 +325,9 @@
   },
   {
     "Lugar": "28",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/474800-1653402999.jpg?lm=1",
     "Nombre": "Facundo Medina",
+    "Posicion": "Defensa central",
     "Nacionalidades": "Argentina",
     "Edad": "26",
     "Club": "RC Lens",
@@ -281,7 +337,9 @@
   },
   {
     "Lugar": "29",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/540664-1732575429.png?lm=1",
     "Nombre": "Dilane Bakwa",
+    "Posicion": "Extremo derecho",
     "Nacionalidades": "Francia / RD del Congo",
     "Edad": "22",
     "Club": "Racing Club de Estrasburgo",
@@ -291,7 +349,9 @@
   },
   {
     "Lugar": "30",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/500689-1739972437.jpg?lm=1",
     "Nombre": "Evann Guessand",
+    "Posicion": "Delantero centro",
     "Nacionalidades": "Costa de Marfil / Francia",
     "Edad": "23",
     "Club": "OGC Niza",
@@ -301,7 +361,9 @@
   },
   {
     "Lugar": "31",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/559328-1732575392.png?lm=1",
     "Nombre": "Emanuel Emegha",
+    "Posicion": "Delantero centro",
     "Nacionalidades": "Países Bajos / Nigeria",
     "Edad": "22",
     "Club": "Racing Club de Estrasburgo",
@@ -311,7 +373,9 @@
   },
   {
     "Lugar": "32",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/496857-1642174107.jpg?lm=1",
     "Nombre": "Edon Zhegrova",
+    "Posicion": "Extremo derecho",
     "Nacionalidades": "Kosovo / Alemania",
     "Edad": "26",
     "Club": "LOSC Lille",
@@ -321,7 +385,9 @@
   },
   {
     "Lugar": "33",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/182913-1681462009.jpg?lm=1",
     "Nombre": "Adrien Rabiot",
+    "Posicion": "Mediocentro",
     "Nacionalidades": "Francia",
     "Edad": "30",
     "Club": "Olympique de Marsella",
@@ -331,7 +397,9 @@
   },
   {
     "Lugar": "34",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/648779-1737490058.jpg?lm=1",
     "Nombre": "Wilfried Singo",
+    "Posicion": "Defensa central",
     "Nacionalidades": "Costa de Marfil",
     "Edad": "24",
     "Club": "AS Mónaco",
@@ -341,7 +409,9 @@
   },
   {
     "Lugar": "35",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/557149-1703978046.jpg?lm=1",
     "Nombre": "Kang-in Lee",
+    "Posicion": "Extremo derecho",
     "Nacionalidades": "Corea del Sur",
     "Edad": "24",
     "Club": "París Saint-Germain FC",
@@ -351,7 +421,9 @@
   },
   {
     "Lugar": "36",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/872171-1715107660.jpg?lm=1",
     "Nombre": "Lucas Beraldo",
+    "Posicion": "Defensa central",
     "Nacionalidades": "Brasil",
     "Edad": "21",
     "Club": "París Saint-Germain FC",
@@ -361,7 +433,9 @@
   },
   {
     "Lugar": "37",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/729814-1719222514.jpg?lm=1",
     "Nombre": "Georges Mikautadze",
+    "Posicion": "Delantero centro",
     "Nacionalidades": "Georgia / Francia",
     "Edad": "24",
     "Club": "Olympique de Lyon",
@@ -371,7 +445,9 @@
   },
   {
     "Lugar": "38",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/918969-1726834088.jpg?lm=1",
     "Nombre": "Lamine Camara",
+    "Posicion": "Mediocentro",
     "Nacionalidades": "Senegal",
     "Edad": "21",
     "Club": "AS Mónaco",
@@ -381,7 +457,9 @@
   },
   {
     "Lugar": "39",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/585959-1666698479.jpg?lm=1",
     "Nombre": "Arnaud Kalimuendo",
+    "Posicion": "Delantero centro",
     "Nacionalidades": "Francia / RD del Congo",
     "Edad": "23",
     "Club": "Stade Rennais FC",
@@ -391,7 +469,9 @@
   },
   {
     "Lugar": "40",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/912902-1676656145.jpg?lm=1",
     "Nombre": "Guillaume Restes",
+    "Posicion": "Portero",
     "Nacionalidades": "Francia / Costa de Marfil",
     "Edad": "20",
     "Club": "Toulouse FC",
@@ -401,7 +481,9 @@
   },
   {
     "Lugar": "41",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/263918-1614091807.jpg?lm=1",
     "Nombre": "Aleksandr Golovin",
+    "Posicion": "Mediocentro ofensivo",
     "Nacionalidades": "Rusia",
     "Edad": "29",
     "Club": "AS Mónaco",
@@ -411,7 +493,9 @@
   },
   {
     "Lugar": "42",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/789082-1655282894.jpg?lm=1",
     "Nombre": "Vanderson",
+    "Posicion": "Lateral derecho",
     "Nacionalidades": "Brasil",
     "Edad": "24",
     "Club": "AS Mónaco",
@@ -421,7 +505,9 @@
   },
   {
     "Lugar": "43",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/318470-1732658603.jpg?lm=1",
     "Nombre": "Matvey Safonov",
+    "Posicion": "Portero",
     "Nacionalidades": "Rusia",
     "Edad": "26",
     "Club": "París Saint-Germain FC",
@@ -431,7 +517,9 @@
   },
   {
     "Lugar": "44",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/465555-1732575132.png?lm=1",
     "Nombre": "Djordje Petrovic",
+    "Posicion": "Portero",
     "Nacionalidades": "Serbia",
     "Edad": "25",
     "Club": "Racing Club de Estrasburgo",
@@ -441,7 +529,9 @@
   },
   {
     "Lugar": "45",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/575998-1640777749.jpg?lm=1",
     "Nombre": "Leonardo Balerdi",
+    "Posicion": "Defensa central",
     "Nacionalidades": "Argentina / Italia",
     "Edad": "26",
     "Club": "Olympique de Marsella",
@@ -451,7 +541,9 @@
   },
   {
     "Lugar": "46",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/465955-1739970628.jpg?lm=1",
     "Nombre": "Marcin Bulka",
+    "Posicion": "Portero",
     "Nacionalidades": "Polonia",
     "Edad": "25",
     "Club": "OGC Niza",
@@ -461,7 +553,9 @@
   },
   {
     "Lugar": "47",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/228948-1737490227.jpg?lm=1",
     "Nombre": "Thilo Kehrer",
+    "Posicion": "Defensa central",
     "Nacionalidades": "Alemania / Burundi",
     "Edad": "28",
     "Club": "AS Mónaco",
@@ -471,7 +565,9 @@
   },
   {
     "Lugar": "48",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/391065-1596029805.jpg?lm=1",
     "Nombre": "Hamed Junior Traoré",
+    "Posicion": "Mediocentro ofensivo",
     "Nacionalidades": "Costa de Marfil",
     "Edad": "25",
     "Club": "AJ Auxerre",
@@ -481,7 +577,9 @@
   },
   {
     "Lugar": "49",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/876631-1732576173.png?lm=1",
     "Nombre": "Habib Diarra",
+    "Posicion": "Mediocentro",
     "Nacionalidades": "Senegal / Francia",
     "Edad": "21",
     "Club": "Racing Club de Estrasburgo",
@@ -491,7 +589,9 @@
   },
   {
     "Lugar": "50",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/648020-1666689768.jpg?lm=1",
     "Nombre": "Alexsandro",
+    "Posicion": "Defensa central",
     "Nacionalidades": "Brasil",
     "Edad": "25",
     "Club": "LOSC Lille",
@@ -501,7 +601,9 @@
   },
   {
     "Lugar": "51",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/392770-1666690396.jpg?lm=1",
     "Nombre": "Angel Gomes",
+    "Posicion": "Mediocentro ofensivo",
     "Nacionalidades": "Inglaterra / Portugal",
     "Edad": "24",
     "Club": "LOSC Lille",
@@ -511,7 +613,9 @@
   },
   {
     "Lugar": "52",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/167799-1629882773.jpg?lm=1",
     "Nombre": "Pierre-Emile Højbjerg",
+    "Posicion": "Pivote",
     "Nacionalidades": "Dinamarca / Francia",
     "Edad": "29",
     "Club": "Olympique de Marsella",
@@ -521,7 +625,9 @@
   },
   {
     "Lugar": "53",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/503770-1672838317.jpg?lm=1",
     "Nombre": "Folarin Balogun",
+    "Posicion": "Delantero centro",
     "Nacionalidades": "Estados Unidos / Inglaterra",
     "Edad": "23",
     "Club": "AS Mónaco",
@@ -531,7 +637,9 @@
   },
   {
     "Lugar": "54",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/288225-1596557793.jpg?lm=1",
     "Nombre": "Ludovic Blas",
+    "Posicion": "Extremo derecho",
     "Nacionalidades": "Francia / Martinica",
     "Edad": "27",
     "Club": "Stade Rennais FC",
@@ -541,7 +649,9 @@
   },
   {
     "Lugar": "55",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/655012-1727721924.jpg?lm=1",
     "Nombre": "Lucas Stassin",
+    "Posicion": "Delantero centro",
     "Nacionalidades": "Bélgica",
     "Edad": "20",
     "Club": "AS Saint-Étienne",
@@ -551,7 +661,9 @@
   },
   {
     "Lugar": "56",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/659543-1704213657.jpg?lm=1",
     "Nombre": "Matthis Abline",
+    "Posicion": "Delantero centro",
     "Nacionalidades": "Francia",
     "Edad": "22",
     "Club": "FC Nantes",
@@ -561,7 +673,9 @@
   },
   {
     "Lugar": "57",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/579928-1732576164.png?lm=1",
     "Nombre": "Sebastian Nanasi",
+    "Posicion": "Interior izquierdo",
     "Nacionalidades": "Suecia / Hungría",
     "Edad": "23",
     "Club": "Racing Club de Estrasburgo",
@@ -571,7 +685,9 @@
   },
   {
     "Lugar": "58",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/786436-1732576094.png?lm=1",
     "Nombre": "Ismaël Doukouré",
+    "Posicion": "Defensa central",
     "Nacionalidades": "Francia / Costa de Marfil",
     "Edad": "21",
     "Club": "Racing Club de Estrasburgo",
@@ -581,7 +697,9 @@
   },
   {
     "Lugar": "59",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/652275-1662491592.jpg?lm=1",
     "Nombre": "Hákon Arnar Haraldsson",
+    "Posicion": "Mediocentro ofensivo",
     "Nacionalidades": "Islandia",
     "Edad": "22",
     "Club": "LOSC Lille",
@@ -591,7 +709,9 @@
   },
   {
     "Lugar": "60",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/711980-1732575765.png?lm=1",
     "Nombre": "Guéla Doué",
+    "Posicion": "Lateral derecho",
     "Nacionalidades": "Costa de Marfil / Francia",
     "Edad": "22",
     "Club": "Racing Club de Estrasburgo",
@@ -601,7 +721,9 @@
   },
   {
     "Lugar": "61",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/655006-1732575837.png?lm=1",
     "Nombre": "Diego Moreira",
+    "Posicion": "Interior izquierdo",
     "Nacionalidades": "Bélgica / Portugal",
     "Edad": "20",
     "Club": "Racing Club de Estrasburgo",
@@ -611,7 +733,9 @@
   },
   {
     "Lugar": "62",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/955070-1702991257.jpg?lm=1",
     "Nombre": "Ernest Nuamah",
+    "Posicion": "Extremo derecho",
     "Nacionalidades": "Ghana",
     "Edad": "21",
     "Club": "Olympique de Lyon",
@@ -621,7 +745,9 @@
   },
   {
     "Lugar": "63",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/420064-1614091193.jpg?lm=1",
     "Nombre": "Caio Henrique",
+    "Posicion": "Lateral izquierdo",
     "Nacionalidades": "Brasil / España",
     "Edad": "27",
     "Club": "AS Mónaco",
@@ -631,7 +757,9 @@
   },
   {
     "Lugar": "64",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/1004834-1702545922.jpg?lm=1",
     "Nombre": "George Ilenikhena",
+    "Posicion": "Delantero centro",
     "Nacionalidades": "Nigeria / Francia",
     "Edad": "18",
     "Club": "AS Mónaco",
@@ -641,7 +769,9 @@
   },
   {
     "Lugar": "65",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/1005240-1708555606.jpg?lm=1",
     "Nombre": "Christian Mawissa",
+    "Posicion": "Defensa central",
     "Nacionalidades": "Francia / RD del Congo",
     "Edad": "20",
     "Club": "AS Mónaco",
@@ -651,7 +781,9 @@
   },
   {
     "Lugar": "66",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/923832-1703065128.jpg?lm=1",
     "Nombre": "Nathan Zézé",
+    "Posicion": "Defensa central",
     "Nacionalidades": "Francia / Costa de Marfil",
     "Edad": "20",
     "Club": "FC Nantes",
@@ -661,7 +793,9 @@
   },
   {
     "Lugar": "67",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/670847-1739972705.jpg?lm=1",
     "Nombre": "Mohamed-Ali Cho",
+    "Posicion": "Extremo derecho",
     "Nacionalidades": "Francia / Inglaterra",
     "Edad": "21",
     "Club": "OGC Niza",
@@ -671,7 +805,9 @@
   },
   {
     "Lugar": "68",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/560593-1739972051.jpg?lm=1",
     "Nombre": "Hicham Boudaoui",
+    "Posicion": "Mediocentro",
     "Nacionalidades": "Argelia",
     "Edad": "25",
     "Club": "OGC Niza",
@@ -681,7 +817,9 @@
   },
   {
     "Lugar": "69",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/538874-1739972578.jpg?lm=1",
     "Nombre": "Terem Moffi",
+    "Posicion": "Delantero centro",
     "Nacionalidades": "Nigeria",
     "Edad": "26",
     "Club": "OGC Niza",
@@ -691,7 +829,9 @@
   },
   {
     "Lugar": "70",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/532775-1739970931.jpg?lm=1",
     "Nombre": "Melvin Bard",
+    "Posicion": "Lateral izquierdo",
     "Nacionalidades": "Francia",
     "Edad": "24",
     "Club": "OGC Niza",
@@ -701,7 +841,9 @@
   },
   {
     "Lugar": "71",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/557613-1704213356.jpg?lm=1",
     "Nombre": "Quentin Merlin",
+    "Posicion": "Lateral izquierdo",
     "Nacionalidades": "Francia",
     "Edad": "23",
     "Club": "Olympique de Marsella",
@@ -711,7 +853,9 @@
   },
   {
     "Lugar": "72",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/711976-1637070021.jpg?lm=1",
     "Nombre": "Andy Diouf",
+    "Posicion": "Mediocentro",
     "Nacionalidades": "Francia / Senegal",
     "Edad": "22",
     "Club": "RC Lens",
@@ -721,7 +865,9 @@
   },
   {
     "Lugar": "73",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/901019-1685539384.jpg?lm=1",
     "Nombre": "Neil El Aynaoui",
+    "Posicion": "Mediocentro",
     "Nacionalidades": "Marruecos / Francia",
     "Edad": "23",
     "Club": "RC Lens",
@@ -731,7 +877,9 @@
   },
   {
     "Lugar": "74",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/351816-1663575089.jpg?lm=1",
     "Nombre": "Ismaël Bennacer",
+    "Posicion": "Pivote",
     "Nacionalidades": "Argelia / Francia",
     "Edad": "27",
     "Club": "Olympique de Marsella",
@@ -741,7 +889,9 @@
   },
   {
     "Lugar": "75",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/903693-1716562599.jpg?lm=1",
     "Nombre": "Senny Mayulu",
+    "Posicion": "Mediocentro",
     "Nacionalidades": "Francia / RD del Congo",
     "Edad": "19",
     "Club": "París Saint-Germain FC",
@@ -751,7 +901,9 @@
   },
   {
     "Lugar": "76",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/1016015-1741120243.jpg?lm=1",
     "Nombre": "Ngal'ayel Mukau",
+    "Posicion": "Pivote",
     "Nacionalidades": "RD del Congo / Bélgica",
     "Edad": "20",
     "Club": "LOSC Lille",
@@ -761,7 +913,9 @@
   },
   {
     "Lugar": "77",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/816580-1708342212.jpg?lm=1",
     "Nombre": "Tiago Santos",
+    "Posicion": "Lateral derecho",
     "Nacionalidades": "Portugal",
     "Edad": "22",
     "Club": "LOSC Lille",
@@ -771,7 +925,9 @@
   },
   {
     "Lugar": "78",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/654539-1616684807.jpg?lm=1",
     "Nombre": "Adrien Truffert",
+    "Posicion": "Lateral izquierdo",
     "Nacionalidades": "Francia",
     "Edad": "23",
     "Club": "Stade Rennais FC",
@@ -781,7 +937,9 @@
   },
   {
     "Lugar": "79",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/724129-1690099031.jpg?lm=1",
     "Nombre": "Matías Fernández-Pardo",
+    "Posicion": "Delantero centro",
     "Nacionalidades": "España / Bélgica",
     "Edad": "20",
     "Club": "LOSC Lille",
@@ -791,7 +949,9 @@
   },
   {
     "Lugar": "80",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/291200-1700737208.jpg?lm=1",
     "Nombre": "Moussa Niakhaté",
+    "Posicion": "Defensa central",
     "Nacionalidades": "Senegal / Francia",
     "Edad": "29",
     "Club": "Olympique de Lyon",
@@ -801,7 +961,9 @@
   },
   {
     "Lugar": "81",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/165793-1737490576.jpg?lm=1",
     "Nombre": "Takumi Minamino",
+    "Posicion": "Extremo izquierdo",
     "Nacionalidades": "Japón",
     "Edad": "30",
     "Club": "AS Mónaco",
@@ -811,7 +973,9 @@
   },
   {
     "Lugar": "82",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/448632-1723831136.png?lm=1",
     "Nombre": "Yehvann Diouf",
+    "Posicion": "Portero",
     "Nacionalidades": "Senegal / Francia",
     "Edad": "25",
     "Club": "Stade de Reims",
@@ -821,7 +985,9 @@
   },
   {
     "Lugar": "83",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/190393-1672830594.jpg?lm=1",
     "Nombre": "Corentin Tolisso",
+    "Posicion": "Mediocentro",
     "Nacionalidades": "Francia / Togo",
     "Edad": "30",
     "Club": "Olympique de Lyon",
@@ -831,7 +997,9 @@
   },
   {
     "Lugar": "84",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/393238-1629444913.jpg?lm=1",
     "Nombre": "Zakaria Aboukhlal",
+    "Posicion": "Extremo derecho",
     "Nacionalidades": "Marruecos / Países Bajos",
     "Edad": "25",
     "Club": "Toulouse FC",
@@ -841,7 +1009,9 @@
   },
   {
     "Lugar": "85",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/285845-1702991138.jpg?lm=1",
     "Nombre": "Ainsley Maitland-Niles",
+    "Posicion": "Lateral derecho",
     "Nacionalidades": "Inglaterra / Jamaica",
     "Edad": "27",
     "Club": "Olympique de Lyon",
@@ -851,7 +1021,9 @@
   },
   {
     "Lugar": "86",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/674612-1739970953.jpg?lm=1",
     "Nombre": "Youssouf Ndayishimiye",
+    "Posicion": "Defensa central",
     "Nacionalidades": "Burundi",
     "Edad": "26",
     "Club": "OGC Niza",
@@ -861,7 +1033,9 @@
   },
   {
     "Lugar": "87",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/580657-1723713882.jpg?lm=1",
     "Nombre": "Osame Sahraoui",
+    "Posicion": "Extremo izquierdo",
     "Nacionalidades": "Marruecos / Noruega",
     "Edad": "24",
     "Club": "LOSC Lille",
@@ -871,7 +1045,9 @@
   },
   {
     "Lugar": "88",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/191056-1602242038.jpg?lm=1",
     "Nombre": "Brice Samba",
+    "Posicion": "Portero",
     "Nacionalidades": "Francia / Congo",
     "Edad": "31",
     "Club": "Stade Rennais FC",
@@ -881,7 +1057,9 @@
   },
   {
     "Lugar": "89",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/563963-1668428508.jpg?lm=1",
     "Nombre": "Mohammed Salisu",
+    "Posicion": "Defensa central",
     "Nacionalidades": "Ghana",
     "Edad": "26",
     "Club": "AS Mónaco",
@@ -891,7 +1069,9 @@
   },
   {
     "Lugar": "90",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/745181-1666691600.jpg?lm=1",
     "Nombre": "Soungoutou Magassa",
+    "Posicion": "Pivote",
     "Nacionalidades": "Francia / Malí",
     "Edad": "21",
     "Club": "AS Mónaco",
@@ -901,7 +1081,9 @@
   },
   {
     "Lugar": "91",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/672381-1750074903.jpg?lm=1",
     "Nombre": "Jonathan Rowe",
+    "Posicion": "Extremo izquierdo",
     "Nacionalidades": "Inglaterra / Jamaica",
     "Edad": "22",
     "Club": "Olympique de Marsella",
@@ -911,7 +1093,9 @@
   },
   {
     "Lugar": "92",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/237662-1737490753.jpg?lm=1",
     "Nombre": "Breel Embolo",
+    "Posicion": "Delantero centro",
     "Nacionalidades": "Suiza / Camerún",
     "Edad": "28",
     "Club": "AS Mónaco",
@@ -921,7 +1105,9 @@
   },
   {
     "Lugar": "93",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/274862-1703065226.jpg?lm=1",
     "Nombre": "Moses Simon",
+    "Posicion": "Extremo izquierdo",
     "Nacionalidades": "Nigeria",
     "Edad": "29",
     "Club": "FC Nantes",
@@ -931,7 +1117,9 @@
   },
   {
     "Lugar": "94",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/849410-1683292377.jpg?lm=1",
     "Nombre": "Valentín Barco",
+    "Posicion": "Mediocentro",
     "Nacionalidades": "Argentina",
     "Edad": "20",
     "Club": "Racing Club de Estrasburgo",
@@ -941,7 +1129,9 @@
   },
   {
     "Lugar": "95",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/427572-1727721934.jpg?lm=1",
     "Nombre": "Zuriko Davitashvili",
+    "Posicion": "Extremo izquierdo",
     "Nacionalidades": "Georgia",
     "Edad": "24",
     "Club": "AS Saint-Étienne",
@@ -951,7 +1141,9 @@
   },
   {
     "Lugar": "96",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/690799-1723707069.jpg?lm=1",
     "Nombre": "Anthony Rouault",
+    "Posicion": "Defensa central",
     "Nacionalidades": "Francia",
     "Edad": "24",
     "Club": "Stade Rennais FC",
@@ -961,7 +1153,9 @@
   },
   {
     "Lugar": "97",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/485960-1736237346.jpg?lm=1",
     "Nombre": "Lilian Brassier",
+    "Posicion": "Defensa central",
     "Nacionalidades": "Francia / Togo",
     "Edad": "25",
     "Club": "Stade Rennais FC",
@@ -971,7 +1165,9 @@
   },
   {
     "Lugar": "98",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/216569-1739972645.jpg?lm=1",
     "Nombre": "Jérémie Boga",
+    "Posicion": "Extremo izquierdo",
     "Nacionalidades": "Costa de Marfil / Francia",
     "Edad": "28",
     "Club": "OGC Niza",
@@ -981,7 +1177,9 @@
   },
   {
     "Lugar": "99",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/467720-1739972793.jpg?lm=1",
     "Nombre": "Youssoufa Moukoko",
+    "Posicion": "Delantero centro",
     "Nacionalidades": "Alemania / Camerún",
     "Edad": "20",
     "Club": "OGC Niza",
@@ -991,7 +1189,9 @@
   },
   {
     "Lugar": "100",
+    "Avatar": "https://img.a.transfermarkt.technology/portrait/medium/569389-1739972675.jpg?lm=1",
     "Nombre": "Sofiane Diop",
+    "Posicion": "Extremo izquierdo",
     "Nacionalidades": "Marruecos / Francia",
     "Edad": "25",
     "Club": "OGC Niza",
