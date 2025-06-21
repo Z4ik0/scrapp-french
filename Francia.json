@@ -1,0 +1,1002 @@
+[
+  {
+    "Lugar": "1",
+    "Nombre": "Ousmane Dembélé",
+    "Nacionalidades": "Francia",
+    "Edad": "28",
+    "Club": "París Saint-Germain FC",
+    "ValorMasAlto": "120,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "90,00 mill. €"
+  },
+  {
+    "Lugar": "2",
+    "Nombre": "Khvicha Kvaratskhelia",
+    "Nacionalidades": "Georgia",
+    "Edad": "24",
+    "Club": "París Saint-Germain FC",
+    "ValorMasAlto": "90,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "90,00 mill. €"
+  },
+  {
+    "Lugar": "3",
+    "Nombre": "Désiré Doué",
+    "Nacionalidades": "Francia / Costa de Marfil",
+    "Edad": "20",
+    "Club": "París Saint-Germain FC",
+    "ValorMasAlto": "90,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "90,00 mill. €"
+  },
+  {
+    "Lugar": "4",
+    "Nombre": "Achraf Hakimi",
+    "Nacionalidades": "Marruecos / España",
+    "Edad": "26",
+    "Club": "París Saint-Germain FC",
+    "ValorMasAlto": "80,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "80,00 mill. €"
+  },
+  {
+    "Lugar": "5",
+    "Nombre": "Vitinha",
+    "Nacionalidades": "Portugal",
+    "Edad": "25",
+    "Club": "París Saint-Germain FC",
+    "ValorMasAlto": "80,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "80,00 mill. €"
+  },
+  {
+    "Lugar": "6",
+    "Nombre": "João Neves",
+    "Nacionalidades": "Portugal",
+    "Edad": "20",
+    "Club": "París Saint-Germain FC",
+    "ValorMasAlto": "80,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "80,00 mill. €"
+  },
+  {
+    "Lugar": "7",
+    "Nombre": "Nuno Mendes",
+    "Nacionalidades": "Portugal",
+    "Edad": "23",
+    "Club": "París Saint-Germain FC",
+    "ValorMasAlto": "70,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "70,00 mill. €"
+  },
+  {
+    "Lugar": "8",
+    "Nombre": "Bradley Barcola",
+    "Nacionalidades": "Francia / Togo",
+    "Edad": "22",
+    "Club": "París Saint-Germain FC",
+    "ValorMasAlto": "70,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "70,00 mill. €"
+  },
+  {
+    "Lugar": "9",
+    "Nombre": "Willian Pacho",
+    "Nacionalidades": "Ecuador",
+    "Edad": "23",
+    "Club": "París Saint-Germain FC",
+    "ValorMasAlto": "65,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "65,00 mill. €"
+  },
+  {
+    "Lugar": "10",
+    "Nombre": "Warren Zaïre-Emery",
+    "Nacionalidades": "Francia / Martinica",
+    "Edad": "19",
+    "Club": "París Saint-Germain FC",
+    "ValorMasAlto": "60,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "55,00 mill. €"
+  },
+  {
+    "Lugar": "11",
+    "Nombre": "Jonathan David",
+    "Nacionalidades": "Canadá / Estados Unidos",
+    "Edad": "25",
+    "Club": "LOSC Lille",
+    "ValorMasAlto": "60,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "45,00 mill. €"
+  },
+  {
+    "Lugar": "12",
+    "Nombre": "Maghnes Akliouche",
+    "Nacionalidades": "Francia / Argelia",
+    "Edad": "23",
+    "Club": "AS Mónaco",
+    "ValorMasAlto": "45,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "45,00 mill. €"
+  },
+  {
+    "Lugar": "13",
+    "Nombre": "Gianluigi Donnarumma",
+    "Nacionalidades": "Italia",
+    "Edad": "26",
+    "Club": "París Saint-Germain FC",
+    "ValorMasAlto": "65,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "40,00 mill. €"
+  },
+  {
+    "Lugar": "14",
+    "Nombre": "Fabián Ruiz",
+    "Nacionalidades": "España",
+    "Edad": "29",
+    "Club": "París Saint-Germain FC",
+    "ValorMasAlto": "60,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "40,00 mill. €"
+  },
+  {
+    "Lugar": "15",
+    "Nombre": "Gonçalo Ramos",
+    "Nacionalidades": "Portugal",
+    "Edad": "24",
+    "Club": "París Saint-Germain FC",
+    "ValorMasAlto": "50,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "40,00 mill. €"
+  },
+  {
+    "Lugar": "16",
+    "Nombre": "Mason Greenwood",
+    "Nacionalidades": "Inglaterra",
+    "Edad": "23",
+    "Club": "Olympique de Marsella",
+    "ValorMasAlto": "50,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "40,00 mill. €"
+  },
+  {
+    "Lugar": "17",
+    "Nombre": "Marquinhos",
+    "Nacionalidades": "Brasil / Portugal",
+    "Edad": "31",
+    "Club": "París Saint-Germain FC",
+    "ValorMasAlto": "75,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "35,00 mill. €"
+  },
+  {
+    "Lugar": "18",
+    "Nombre": "Malick Fofana",
+    "Nacionalidades": "Bélgica / Guinea",
+    "Edad": "20",
+    "Club": "Olympique de Lyon",
+    "ValorMasAlto": "30,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "30,00 mill. €"
+  },
+  {
+    "Lugar": "19",
+    "Nombre": "Lucas Chevalier",
+    "Nacionalidades": "Francia",
+    "Edad": "23",
+    "Club": "LOSC Lille",
+    "ValorMasAlto": "30,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "30,00 mill. €"
+  },
+  {
+    "Lugar": "20",
+    "Nombre": "Amine Gouiri",
+    "Nacionalidades": "Argelia / Francia",
+    "Edad": "25",
+    "Club": "Olympique de Marsella",
+    "ValorMasAlto": "50,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "30,00 mill. €"
+  },
+  {
+    "Lugar": "21",
+    "Nombre": "Denis Zakaria",
+    "Nacionalidades": "Suiza / RD del Congo",
+    "Edad": "28",
+    "Club": "AS Mónaco",
+    "ValorMasAlto": "45,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "30,00 mill. €"
+  },
+  {
+    "Lugar": "22",
+    "Nombre": "Mika Biereth",
+    "Nacionalidades": "Dinamarca / Inglaterra",
+    "Edad": "22",
+    "Club": "AS Mónaco",
+    "ValorMasAlto": "30,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "30,00 mill. €"
+  },
+  {
+    "Lugar": "23",
+    "Nombre": "Ayyoub Bouaddi",
+    "Nacionalidades": "Francia / Marruecos",
+    "Edad": "17",
+    "Club": "LOSC Lille",
+    "ValorMasAlto": "30,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "28,00 mill. €"
+  },
+  {
+    "Lugar": "24",
+    "Nombre": "Bafodé Diakité",
+    "Nacionalidades": "Francia / Guinea",
+    "Edad": "24",
+    "Club": "LOSC Lille",
+    "ValorMasAlto": "28,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "28,00 mill. €"
+  },
+  {
+    "Lugar": "25",
+    "Nombre": "Eliesse Ben Seghir",
+    "Nacionalidades": "Marruecos / Francia",
+    "Edad": "20",
+    "Club": "AS Mónaco",
+    "ValorMasAlto": "30,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "28,00 mill. €"
+  },
+  {
+    "Lugar": "26",
+    "Nombre": "Lucas Hernández",
+    "Nacionalidades": "Francia / España",
+    "Edad": "29",
+    "Club": "París Saint-Germain FC",
+    "ValorMasAlto": "70,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "25,00 mill. €"
+  },
+  {
+    "Lugar": "27",
+    "Nombre": "Thiago Almada",
+    "Nacionalidades": "Argentina",
+    "Edad": "24",
+    "Club": "Olympique de Lyon",
+    "ValorMasAlto": "27,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "25,00 mill. €"
+  },
+  {
+    "Lugar": "28",
+    "Nombre": "Facundo Medina",
+    "Nacionalidades": "Argentina",
+    "Edad": "26",
+    "Club": "RC Lens",
+    "ValorMasAlto": "25,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "25,00 mill. €"
+  },
+  {
+    "Lugar": "29",
+    "Nombre": "Dilane Bakwa",
+    "Nacionalidades": "Francia / RD del Congo",
+    "Edad": "22",
+    "Club": "Racing Club de Estrasburgo",
+    "ValorMasAlto": "25,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "25,00 mill. €"
+  },
+  {
+    "Lugar": "30",
+    "Nombre": "Evann Guessand",
+    "Nacionalidades": "Costa de Marfil / Francia",
+    "Edad": "23",
+    "Club": "OGC Niza",
+    "ValorMasAlto": "25,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "25,00 mill. €"
+  },
+  {
+    "Lugar": "31",
+    "Nombre": "Emanuel Emegha",
+    "Nacionalidades": "Países Bajos / Nigeria",
+    "Edad": "22",
+    "Club": "Racing Club de Estrasburgo",
+    "ValorMasAlto": "25,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "25,00 mill. €"
+  },
+  {
+    "Lugar": "32",
+    "Nombre": "Edon Zhegrova",
+    "Nacionalidades": "Kosovo / Alemania",
+    "Edad": "26",
+    "Club": "LOSC Lille",
+    "ValorMasAlto": "25,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "25,00 mill. €"
+  },
+  {
+    "Lugar": "33",
+    "Nombre": "Adrien Rabiot",
+    "Nacionalidades": "Francia",
+    "Edad": "30",
+    "Club": "Olympique de Marsella",
+    "ValorMasAlto": "50,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "25,00 mill. €"
+  },
+  {
+    "Lugar": "34",
+    "Nombre": "Wilfried Singo",
+    "Nacionalidades": "Costa de Marfil",
+    "Edad": "24",
+    "Club": "AS Mónaco",
+    "ValorMasAlto": "25,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "25,00 mill. €"
+  },
+  {
+    "Lugar": "35",
+    "Nombre": "Kang-in Lee",
+    "Nacionalidades": "Corea del Sur",
+    "Edad": "24",
+    "Club": "París Saint-Germain FC",
+    "ValorMasAlto": "30,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "25,00 mill. €"
+  },
+  {
+    "Lugar": "36",
+    "Nombre": "Lucas Beraldo",
+    "Nacionalidades": "Brasil",
+    "Edad": "21",
+    "Club": "París Saint-Germain FC",
+    "ValorMasAlto": "30,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "25,00 mill. €"
+  },
+  {
+    "Lugar": "37",
+    "Nombre": "Georges Mikautadze",
+    "Nacionalidades": "Georgia / Francia",
+    "Edad": "24",
+    "Club": "Olympique de Lyon",
+    "ValorMasAlto": "22,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "22,00 mill. €"
+  },
+  {
+    "Lugar": "38",
+    "Nombre": "Lamine Camara",
+    "Nacionalidades": "Senegal",
+    "Edad": "21",
+    "Club": "AS Mónaco",
+    "ValorMasAlto": "22,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "22,00 mill. €"
+  },
+  {
+    "Lugar": "39",
+    "Nombre": "Arnaud Kalimuendo",
+    "Nacionalidades": "Francia / RD del Congo",
+    "Edad": "23",
+    "Club": "Stade Rennais FC",
+    "ValorMasAlto": "25,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "22,00 mill. €"
+  },
+  {
+    "Lugar": "40",
+    "Nombre": "Guillaume Restes",
+    "Nacionalidades": "Francia / Costa de Marfil",
+    "Edad": "20",
+    "Club": "Toulouse FC",
+    "ValorMasAlto": "20,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "20,00 mill. €"
+  },
+  {
+    "Lugar": "41",
+    "Nombre": "Aleksandr Golovin",
+    "Nacionalidades": "Rusia",
+    "Edad": "29",
+    "Club": "AS Mónaco",
+    "ValorMasAlto": "30,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "20,00 mill. €"
+  },
+  {
+    "Lugar": "42",
+    "Nombre": "Vanderson",
+    "Nacionalidades": "Brasil",
+    "Edad": "24",
+    "Club": "AS Mónaco",
+    "ValorMasAlto": "20,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "20,00 mill. €"
+  },
+  {
+    "Lugar": "43",
+    "Nombre": "Matvey Safonov",
+    "Nacionalidades": "Rusia",
+    "Edad": "26",
+    "Club": "París Saint-Germain FC",
+    "ValorMasAlto": "22,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "20,00 mill. €"
+  },
+  {
+    "Lugar": "44",
+    "Nombre": "Djordje Petrovic",
+    "Nacionalidades": "Serbia",
+    "Edad": "25",
+    "Club": "Racing Club de Estrasburgo",
+    "ValorMasAlto": "20,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "20,00 mill. €"
+  },
+  {
+    "Lugar": "45",
+    "Nombre": "Leonardo Balerdi",
+    "Nacionalidades": "Argentina / Italia",
+    "Edad": "26",
+    "Club": "Olympique de Marsella",
+    "ValorMasAlto": "20,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "20,00 mill. €"
+  },
+  {
+    "Lugar": "46",
+    "Nombre": "Marcin Bulka",
+    "Nacionalidades": "Polonia",
+    "Edad": "25",
+    "Club": "OGC Niza",
+    "ValorMasAlto": "20,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "20,00 mill. €"
+  },
+  {
+    "Lugar": "47",
+    "Nombre": "Thilo Kehrer",
+    "Nacionalidades": "Alemania / Burundi",
+    "Edad": "28",
+    "Club": "AS Mónaco",
+    "ValorMasAlto": "35,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "20,00 mill. €"
+  },
+  {
+    "Lugar": "48",
+    "Nombre": "Hamed Junior Traoré",
+    "Nacionalidades": "Costa de Marfil",
+    "Edad": "25",
+    "Club": "AJ Auxerre",
+    "ValorMasAlto": "22,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "20,00 mill. €"
+  },
+  {
+    "Lugar": "49",
+    "Nombre": "Habib Diarra",
+    "Nacionalidades": "Senegal / Francia",
+    "Edad": "21",
+    "Club": "Racing Club de Estrasburgo",
+    "ValorMasAlto": "20,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "20,00 mill. €"
+  },
+  {
+    "Lugar": "50",
+    "Nombre": "Alexsandro",
+    "Nacionalidades": "Brasil",
+    "Edad": "25",
+    "Club": "LOSC Lille",
+    "ValorMasAlto": "20,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "20,00 mill. €"
+  },
+  {
+    "Lugar": "51",
+    "Nombre": "Angel Gomes",
+    "Nacionalidades": "Inglaterra / Portugal",
+    "Edad": "24",
+    "Club": "LOSC Lille",
+    "ValorMasAlto": "28,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "20,00 mill. €"
+  },
+  {
+    "Lugar": "52",
+    "Nombre": "Pierre-Emile Højbjerg",
+    "Nacionalidades": "Dinamarca / Francia",
+    "Edad": "29",
+    "Club": "Olympique de Marsella",
+    "ValorMasAlto": "45,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "20,00 mill. €"
+  },
+  {
+    "Lugar": "53",
+    "Nombre": "Folarin Balogun",
+    "Nacionalidades": "Estados Unidos / Inglaterra",
+    "Edad": "23",
+    "Club": "AS Mónaco",
+    "ValorMasAlto": "30,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "18,00 mill. €"
+  },
+  {
+    "Lugar": "54",
+    "Nombre": "Ludovic Blas",
+    "Nacionalidades": "Francia / Martinica",
+    "Edad": "27",
+    "Club": "Stade Rennais FC",
+    "ValorMasAlto": "22,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "18,00 mill. €"
+  },
+  {
+    "Lugar": "55",
+    "Nombre": "Lucas Stassin",
+    "Nacionalidades": "Bélgica",
+    "Edad": "20",
+    "Club": "AS Saint-Étienne",
+    "ValorMasAlto": "18,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "18,00 mill. €"
+  },
+  {
+    "Lugar": "56",
+    "Nombre": "Matthis Abline",
+    "Nacionalidades": "Francia",
+    "Edad": "22",
+    "Club": "FC Nantes",
+    "ValorMasAlto": "18,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "18,00 mill. €"
+  },
+  {
+    "Lugar": "57",
+    "Nombre": "Sebastian Nanasi",
+    "Nacionalidades": "Suecia / Hungría",
+    "Edad": "23",
+    "Club": "Racing Club de Estrasburgo",
+    "ValorMasAlto": "18,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "18,00 mill. €"
+  },
+  {
+    "Lugar": "58",
+    "Nombre": "Ismaël Doukouré",
+    "Nacionalidades": "Francia / Costa de Marfil",
+    "Edad": "21",
+    "Club": "Racing Club de Estrasburgo",
+    "ValorMasAlto": "18,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "18,00 mill. €"
+  },
+  {
+    "Lugar": "59",
+    "Nombre": "Hákon Arnar Haraldsson",
+    "Nacionalidades": "Islandia",
+    "Edad": "22",
+    "Club": "LOSC Lille",
+    "ValorMasAlto": "18,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "18,00 mill. €"
+  },
+  {
+    "Lugar": "60",
+    "Nombre": "Guéla Doué",
+    "Nacionalidades": "Costa de Marfil / Francia",
+    "Edad": "22",
+    "Club": "Racing Club de Estrasburgo",
+    "ValorMasAlto": "18,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "18,00 mill. €"
+  },
+  {
+    "Lugar": "61",
+    "Nombre": "Diego Moreira",
+    "Nacionalidades": "Bélgica / Portugal",
+    "Edad": "20",
+    "Club": "Racing Club de Estrasburgo",
+    "ValorMasAlto": "18,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "18,00 mill. €"
+  },
+  {
+    "Lugar": "62",
+    "Nombre": "Ernest Nuamah",
+    "Nacionalidades": "Ghana",
+    "Edad": "21",
+    "Club": "Olympique de Lyon",
+    "ValorMasAlto": "20,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "15,00 mill. €"
+  },
+  {
+    "Lugar": "63",
+    "Nombre": "Caio Henrique",
+    "Nacionalidades": "Brasil / España",
+    "Edad": "27",
+    "Club": "AS Mónaco",
+    "ValorMasAlto": "20,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "15,00 mill. €"
+  },
+  {
+    "Lugar": "64",
+    "Nombre": "George Ilenikhena",
+    "Nacionalidades": "Nigeria / Francia",
+    "Edad": "18",
+    "Club": "AS Mónaco",
+    "ValorMasAlto": "15,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "15,00 mill. €"
+  },
+  {
+    "Lugar": "65",
+    "Nombre": "Christian Mawissa",
+    "Nacionalidades": "Francia / RD del Congo",
+    "Edad": "20",
+    "Club": "AS Mónaco",
+    "ValorMasAlto": "15,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "15,00 mill. €"
+  },
+  {
+    "Lugar": "66",
+    "Nombre": "Nathan Zézé",
+    "Nacionalidades": "Francia / Costa de Marfil",
+    "Edad": "20",
+    "Club": "FC Nantes",
+    "ValorMasAlto": "15,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "15,00 mill. €"
+  },
+  {
+    "Lugar": "67",
+    "Nombre": "Mohamed-Ali Cho",
+    "Nacionalidades": "Francia / Inglaterra",
+    "Edad": "21",
+    "Club": "OGC Niza",
+    "ValorMasAlto": "15,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "15,00 mill. €"
+  },
+  {
+    "Lugar": "68",
+    "Nombre": "Hicham Boudaoui",
+    "Nacionalidades": "Argelia",
+    "Edad": "25",
+    "Club": "OGC Niza",
+    "ValorMasAlto": "15,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "15,00 mill. €"
+  },
+  {
+    "Lugar": "69",
+    "Nombre": "Terem Moffi",
+    "Nacionalidades": "Nigeria",
+    "Edad": "26",
+    "Club": "OGC Niza",
+    "ValorMasAlto": "25,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "15,00 mill. €"
+  },
+  {
+    "Lugar": "70",
+    "Nombre": "Melvin Bard",
+    "Nacionalidades": "Francia",
+    "Edad": "24",
+    "Club": "OGC Niza",
+    "ValorMasAlto": "15,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "15,00 mill. €"
+  },
+  {
+    "Lugar": "71",
+    "Nombre": "Quentin Merlin",
+    "Nacionalidades": "Francia",
+    "Edad": "23",
+    "Club": "Olympique de Marsella",
+    "ValorMasAlto": "15,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "15,00 mill. €"
+  },
+  {
+    "Lugar": "72",
+    "Nombre": "Andy Diouf",
+    "Nacionalidades": "Francia / Senegal",
+    "Edad": "22",
+    "Club": "RC Lens",
+    "ValorMasAlto": "15,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "15,00 mill. €"
+  },
+  {
+    "Lugar": "73",
+    "Nombre": "Neil El Aynaoui",
+    "Nacionalidades": "Marruecos / Francia",
+    "Edad": "23",
+    "Club": "RC Lens",
+    "ValorMasAlto": "15,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "15,00 mill. €"
+  },
+  {
+    "Lugar": "74",
+    "Nombre": "Ismaël Bennacer",
+    "Nacionalidades": "Argelia / Francia",
+    "Edad": "27",
+    "Club": "Olympique de Marsella",
+    "ValorMasAlto": "40,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "15,00 mill. €"
+  },
+  {
+    "Lugar": "75",
+    "Nombre": "Senny Mayulu",
+    "Nacionalidades": "Francia / RD del Congo",
+    "Edad": "19",
+    "Club": "París Saint-Germain FC",
+    "ValorMasAlto": "15,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "15,00 mill. €"
+  },
+  {
+    "Lugar": "76",
+    "Nombre": "Ngal'ayel Mukau",
+    "Nacionalidades": "RD del Congo / Bélgica",
+    "Edad": "20",
+    "Club": "LOSC Lille",
+    "ValorMasAlto": "15,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "15,00 mill. €"
+  },
+  {
+    "Lugar": "77",
+    "Nombre": "Tiago Santos",
+    "Nacionalidades": "Portugal",
+    "Edad": "22",
+    "Club": "LOSC Lille",
+    "ValorMasAlto": "15,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "15,00 mill. €"
+  },
+  {
+    "Lugar": "78",
+    "Nombre": "Adrien Truffert",
+    "Nacionalidades": "Francia",
+    "Edad": "23",
+    "Club": "Stade Rennais FC",
+    "ValorMasAlto": "18,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "15,00 mill. €"
+  },
+  {
+    "Lugar": "79",
+    "Nombre": "Matías Fernández-Pardo",
+    "Nacionalidades": "España / Bélgica",
+    "Edad": "20",
+    "Club": "LOSC Lille",
+    "ValorMasAlto": "15,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "15,00 mill. €"
+  },
+  {
+    "Lugar": "80",
+    "Nombre": "Moussa Niakhaté",
+    "Nacionalidades": "Senegal / Francia",
+    "Edad": "29",
+    "Club": "Olympique de Lyon",
+    "ValorMasAlto": "18,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "15,00 mill. €"
+  },
+  {
+    "Lugar": "81",
+    "Nombre": "Takumi Minamino",
+    "Nacionalidades": "Japón",
+    "Edad": "30",
+    "Club": "AS Mónaco",
+    "ValorMasAlto": "20,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "15,00 mill. €"
+  },
+  {
+    "Lugar": "82",
+    "Nombre": "Yehvann Diouf",
+    "Nacionalidades": "Senegal / Francia",
+    "Edad": "25",
+    "Club": "Stade de Reims",
+    "ValorMasAlto": "12,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "12,00 mill. €"
+  },
+  {
+    "Lugar": "83",
+    "Nombre": "Corentin Tolisso",
+    "Nacionalidades": "Francia / Togo",
+    "Edad": "30",
+    "Club": "Olympique de Lyon",
+    "ValorMasAlto": "45,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "12,00 mill. €"
+  },
+  {
+    "Lugar": "84",
+    "Nombre": "Zakaria Aboukhlal",
+    "Nacionalidades": "Marruecos / Países Bajos",
+    "Edad": "25",
+    "Club": "Toulouse FC",
+    "ValorMasAlto": "12,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "12,00 mill. €"
+  },
+  {
+    "Lugar": "85",
+    "Nombre": "Ainsley Maitland-Niles",
+    "Nacionalidades": "Inglaterra / Jamaica",
+    "Edad": "27",
+    "Club": "Olympique de Lyon",
+    "ValorMasAlto": "18,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "12,00 mill. €"
+  },
+  {
+    "Lugar": "86",
+    "Nombre": "Youssouf Ndayishimiye",
+    "Nacionalidades": "Burundi",
+    "Edad": "26",
+    "Club": "OGC Niza",
+    "ValorMasAlto": "18,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "12,00 mill. €"
+  },
+  {
+    "Lugar": "87",
+    "Nombre": "Osame Sahraoui",
+    "Nacionalidades": "Marruecos / Noruega",
+    "Edad": "24",
+    "Club": "LOSC Lille",
+    "ValorMasAlto": "12,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "12,00 mill. €"
+  },
+  {
+    "Lugar": "88",
+    "Nombre": "Brice Samba",
+    "Nacionalidades": "Francia / Congo",
+    "Edad": "31",
+    "Club": "Stade Rennais FC",
+    "ValorMasAlto": "15,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "12,00 mill. €"
+  },
+  {
+    "Lugar": "89",
+    "Nombre": "Mohammed Salisu",
+    "Nacionalidades": "Ghana",
+    "Edad": "26",
+    "Club": "AS Mónaco",
+    "ValorMasAlto": "18,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "12,00 mill. €"
+  },
+  {
+    "Lugar": "90",
+    "Nombre": "Soungoutou Magassa",
+    "Nacionalidades": "Francia / Malí",
+    "Edad": "21",
+    "Club": "AS Mónaco",
+    "ValorMasAlto": "12,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "12,00 mill. €"
+  },
+  {
+    "Lugar": "91",
+    "Nombre": "Jonathan Rowe",
+    "Nacionalidades": "Inglaterra / Jamaica",
+    "Edad": "22",
+    "Club": "Olympique de Marsella",
+    "ValorMasAlto": "12,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "12,00 mill. €"
+  },
+  {
+    "Lugar": "92",
+    "Nombre": "Breel Embolo",
+    "Nacionalidades": "Suiza / Camerún",
+    "Edad": "28",
+    "Club": "AS Mónaco",
+    "ValorMasAlto": "22,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "12,00 mill. €"
+  },
+  {
+    "Lugar": "93",
+    "Nombre": "Moses Simon",
+    "Nacionalidades": "Nigeria",
+    "Edad": "29",
+    "Club": "FC Nantes",
+    "ValorMasAlto": "12,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "12,00 mill. €"
+  },
+  {
+    "Lugar": "94",
+    "Nombre": "Valentín Barco",
+    "Nacionalidades": "Argentina",
+    "Edad": "20",
+    "Club": "Racing Club de Estrasburgo",
+    "ValorMasAlto": "13,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "12,00 mill. €"
+  },
+  {
+    "Lugar": "95",
+    "Nombre": "Zuriko Davitashvili",
+    "Nacionalidades": "Georgia",
+    "Edad": "24",
+    "Club": "AS Saint-Étienne",
+    "ValorMasAlto": "10,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "10,00 mill. €"
+  },
+  {
+    "Lugar": "96",
+    "Nombre": "Anthony Rouault",
+    "Nacionalidades": "Francia",
+    "Edad": "24",
+    "Club": "Stade Rennais FC",
+    "ValorMasAlto": "10,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "10,00 mill. €"
+  },
+  {
+    "Lugar": "97",
+    "Nombre": "Lilian Brassier",
+    "Nacionalidades": "Francia / Togo",
+    "Edad": "25",
+    "Club": "Stade Rennais FC",
+    "ValorMasAlto": "12,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "10,00 mill. €"
+  },
+  {
+    "Lugar": "98",
+    "Nombre": "Jérémie Boga",
+    "Nacionalidades": "Costa de Marfil / Francia",
+    "Edad": "28",
+    "Club": "OGC Niza",
+    "ValorMasAlto": "25,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "10,00 mill. €"
+  },
+  {
+    "Lugar": "99",
+    "Nombre": "Youssoufa Moukoko",
+    "Nacionalidades": "Alemania / Camerún",
+    "Edad": "20",
+    "Club": "OGC Niza",
+    "ValorMasAlto": "30,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "10,00 mill. €"
+  },
+  {
+    "Lugar": "100",
+    "Nombre": "Sofiane Diop",
+    "Nacionalidades": "Marruecos / Francia",
+    "Edad": "25",
+    "Club": "OGC Niza",
+    "ValorMasAlto": "20,00 mill. €",
+    "UltmaRevision": "03/06/2025",
+    "ValorMercado": "10,00 mill. €"
+  }
+]

@@ -1,10 +1,11 @@
 const puppeteer = require("puppeteer");
+const fs = require("fs");
 
 (async () => {
   const URL = `https://www.transfermarkt.es/ligue-1/marktwerte/wettbewerb/FR1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1`;
   console.log(`::::: Iniciando Scrapping :::::: `);
 
-  // Crear navegadorsS
+  // Crear navegador
   const browser = await puppeteer.launch({
     headless: false,
     slowMo: 400,
@@ -12,90 +13,85 @@ const puppeteer = require("puppeteer");
 
   const pagina = await browser.newPage();
 
-  // Navegar a pagina y esperar a que se cargue
-  await pagina.goto(URL, { waitUntil: "DOMContentLoaded" });
+  // Navegar a página y esperar a que se cargue
+  await pagina.goto(URL, { waitUntil: "domcontentloaded" });
 
   // Extraer datos
   console.log(":::::::::: Extrayendo datos ::::::::::: ");
 
-  let Jugadores = [];
+  let todosJugadores = [];
+  let continuarbtn = true;
 
-  const btnSiguientePagina = true;
+  while (continuarbtn) {
+    const jugadoresObtenidos = await pagina.evaluate(() => {
+      const arreglojugadores = [];
+      const resultados = document.querySelectorAll("tbody > tr");
 
-  while (btnSiguientePagina) {
+      resultados.forEach((jugador) => {
+        const lugar = jugador.querySelector("td:nth-child(1n)")?.innerText;
+        const nombre = jugador.querySelector("td.hauptlink a")?.innerText?.trim();
+        const nacionalidades = Array.from(jugador.querySelectorAll("img.flaggenrahmen"))
+          .map((img) => img.getAttribute("title"))
+          .filter(Boolean);
+        const edad = jugador.querySelector("td.zentriert:nth-child(2n)")?.innerText;
+        const club = jugador.querySelector("td.zentriert a img")?.getAttribute("title");
+        const valorMasAlto = jugador.querySelector("td.rechts span.cp")?.innerText?.trim();
+        const ultmaRevision = jugador.querySelector("td:nth-child(7n)")?.innerText;
+        const valorMercado = jugador.querySelector("td.rechts.hauptlink")?.innerText?.trim();
 
-    const JugadoresObtenidos = await pagina.evaluate(() => {
-      const resultados = Array.from(document.querySelectorAll("tbody"));
-      return resultados.map((jugador) => {
-        const nombre = jugador.querySelector("td:nth-child(4) a.spielprofil_tooltip")?.innerText;
-        const nacionalidad = jugador.querySelector("img.flaggenrahmen")?.getAttribute('title');
-        const edad = jugador.querySelector("td:nth-child(5)")?.innerText;
-        const club = jugador.querySelector("td:nth-child(6) img")?.getAttribute("src");
-        const valorMasAlto = jugador.querySelector("td:nth-child(8)")?.innerText;
-        const ultmaRevision = jugador.querySelector("td:nth-child(9)")?.innerText;
-        const valorMercado = jugador.querySelector("td.rechts.hauptlink")?.innerText;
-        
-        
+        if (
+          !lugar ||
+          !nombre ||
+          !nacionalidades ||
+          !edad ||
+          !club ||
+          !valorMasAlto ||
+          !ultmaRevision ||
+          !valorMercado
+        )
+          return;
 
-        //Validacion campos vacios
-        if (!nombre || !nacionalidad || !edad || !club || !valorMasAlto || !valorMercado || !ultmaRevision) {
-          return {
-            nombre: nombre || "N/A - Dato no recuperado",
-            edad: edad || "N/A - Dato no recuperado",
-            club: club || "N/A - Dato no recuperado",
-            edad: edad || "N/A - Dato no recuperado",
-            valorMasAlto: valorMasAlto || "N/A - Dato no recuperado",
-            UltimaRevision: ultmaRevision || "N/A - Dato no recuperado",
-            valorMercado: valorMercado || "N/A - Dato no recuperado",
-          };
-        }
+        const resultados = {
+          Lugar: lugar,
+          Nombre: nombre,
+          Nacionalidades: nacionalidades.join(" / "),
+          Edad: edad,
+          Club: club,
+          ValorMasAlto: valorMasAlto,
+          UltmaRevision: ultmaRevision,
+          ValorMercado: valorMercado,
+        };
 
-        // Retornar los datos como objeto
-        // Definir la Estructura del Objeto
-        
-        //Termina Definicion de Estructura del objeto
-        
-        return {};
+        arreglojugadores.push(resultados);
       });
+
+
+
+      return arreglojugadores;
     });
 
-    //Agregar datos a arreglo productos
-    Jugadores = [...Jugadores, JugadoresObtenidos];
+    todosJugadores = [...todosJugadores, ...jugadoresObtenidos];
 
-    // Avanzar a la sig pagina
-    btnSiguientePagina = await pagina.evaluate(() => {
-    const btnSiguiente = document.querySelector('a.tm-pagination_link')
-    console.log("TE encontre");
+    continuarbtn = await pagina.evaluate(() => {
+        const btnSiguiente = document.querySelector("li.tm-pagination__list-item.tm-pagination__list-item--icon-next-page > a.tm-pagination__link");
 
-    if(btnSiguiente){
-        btnSiguiente.click();
-        console.log('entre al if')
-        return true
-    }else{
-        console.log('entre en else');
-        return false    
-    }
-    })
+        if (btnSiguiente) {
+          btnSiguiente.click();
+          return true;
+        } else {
+          return false;
+        }
+      });
 
-    //Esperar a que se de el click
-    await new Promise((resolve) => setTimeout(resolve, 10000));
+      await new Promise((resolve)=>setTimeout(resolve, 2000));
+
   }
 
-  //Resultados
-  console.log(`:::::::: Todos los Jugadores Scrapeados ::::::: ${Jugadores}`);
+  console.log(todosJugadores);
 
-  browser.close();
+  // Guardar en JSON
+  fs.writeFileSync("Francia.json", JSON.stringify(todosJugadores, null, 2));
+  console.log("✅ Archivo JSON creado: Francia.json");
 
-  // Exportacion de Archivos
-
-  console.log("::::::: Terminando el proceso :::::::::  ::::");
+  await browser.close();
 })();
-
-
-/**
- * nombre : nombre,
- * nacionalidad : nacionalidad
- */
-// Guardar en JSON
-// fs.writeFileSync("Francia.json", JSON.stringify(resultadosArray, null, 2));
-// console.log("✅ Archivo JSON creado: Francia.json");
